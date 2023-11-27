@@ -1,11 +1,7 @@
-
-
 .form-container {
     width: 500px;
     margin: 0 auto;
 }
-
-
 input[type=text], input[type=password] {
     width: 500px;
     padding: 10px 20px;
